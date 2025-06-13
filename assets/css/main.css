@@ -1278,6 +1278,11 @@ section,
   color: var(--accent-color);
 }
 
+  #histats_counter {
+    text-align: center;
+    margin: 0 auto;
+  }
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
