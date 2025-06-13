@@ -1281,6 +1281,7 @@ section,
   #histats_counter {
     text-align: center;
     margin: 0 auto;
+    background-color: transparent; /* transparan */
   }
 
 /*--------------------------------------------------------------
